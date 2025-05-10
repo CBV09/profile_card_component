@@ -17,7 +17,7 @@ I feel that this experience was essential for my learning.
 
 
 #### Design for desktop:
-[Profile_Card_Component_Desktop](./design/desktop-design.jpg)
+![Profile_Card_Component_Desktop](./design/desktop-design.jpg)
 
 #### Design for mobile:
 ![Profile_Card_Component_Mobile](./design/mobile-design.jpg)
